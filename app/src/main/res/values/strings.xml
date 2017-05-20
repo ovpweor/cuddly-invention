@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hellven</string>
+    <string name="download_complete">다운로드 성공!</string>
+</resources>
